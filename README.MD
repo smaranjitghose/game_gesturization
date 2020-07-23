@@ -1,4 +1,4 @@
-<h1 align = 'center'>Gesture Gaming</h1>
+<h1 align = 'center'>Game Gesturization</h1>
 <p align = 'center'><img src = "https://media.giphy.com/media/d2Z7NqwF3yImFNHW/giphy.gif" width = 40%></p>
 Have you ever wanted to play those cool games by making gestures?
 <p align = 'center'><img src = "https://media.giphy.com/media/26AHxbQMIf0CzRdTO/giphy.gif" width = 40%></p>
